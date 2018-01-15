@@ -1,6 +1,6 @@
 # What?
 
-A script with an underlying function for converting numbers to plain english
+A script with an underlying function for converting numbers to plain English
 
 # Why?
 
